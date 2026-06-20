@@ -17,15 +17,28 @@ h1{
     border-style : solid;
     border-color : black;
     padding : 15px;
-    background-color : lightgray;
-    text-align: center;
+    background-color : lightcyan;
+    text-align : center;
 }
 .navbar a{
     text-decoration : none;
     color : black;
-    padding : 10px;
+    padding : 20px;
 }
 .navbar a:hover{
-    background-color:rgba(240, 248, 255, 0.461);
-    color: white;
+    background-color :blueviolet;
+    color :white;
+}
+.card {
+    border: 2px solid black ;
+    width : 300px;
+    text-align : center;
+    margin-top: 20px;
+    margin-left: 40px;
+
+}
+.card img{
+
+    width :100%;
+    text-align : center;
 }
