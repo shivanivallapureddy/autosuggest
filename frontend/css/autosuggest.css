@@ -1,0 +1,31 @@
+.gear{
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+.pill{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+.main-content{
+    text-align: center;
+}
+.logo {
+    color:rgb(103, 41, 228);
+}
+
+.tagline{
+    color: grey;
+}
+.search-box{
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.lens{
+position: relative;
+left: 30px;
+}
